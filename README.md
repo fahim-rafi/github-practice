@@ -2,5 +2,4 @@
 
 Adding some stuff.
 
-# Branching
-1. Updating readme for branching.
+Testing out in xubuntu
